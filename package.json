@@ -1,0 +1,29 @@
+{
+  "name": "mind",
+  "version": "1.0.0",
+  "description": "MIND diet helper",
+  "main": "",
+  "scripts": {
+    "test": "test",
+    "start": "webpack-dev-server --progress --colors"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alicecodes/mind.git"
+  },
+  "keywords": [
+    "health",
+    "diet",
+    "track"
+  ],
+  "author": "alicecodes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alicecodes/mind/issues"
+  },
+  "homepage": "https://github.com/alicecodes/mind#readme",
+  "devDependencies": {
+    "webpack": "^1.13.1",
+    "webpack-dev-server": "^1.14.1"
+  }
+}
